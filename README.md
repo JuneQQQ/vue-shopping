@@ -32,7 +32,7 @@
 
 ## 安装
 
-### 如果你想要本地运行
+### 1.如果你想要本地运行
 
 1. `git clone git@github.com:JuneQQQ/vue-shopping.git`
 2. `npm install`
@@ -40,7 +40,7 @@
 
 
 
-### 如果你想要打包发布nginx
+### 2.如果你想要打包发布nginx
 
 1. `npm run build`
 2. 将dist目录下所有文件扔到nginx/html中，注意以下配置
@@ -98,7 +98,7 @@ html文件夹下的目录结构（50x.html可没有）
 
 
 
-### 如果你想要Docker运行
+### 3.如果你想要Docker运行
 
 ```sh
 # MAC M1芯片拉这个  如果你linux拉这个会报错

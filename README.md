@@ -94,7 +94,7 @@ http {
 
 html文件夹下的目录结构（50x.html可没有）
 
-![image-20220920125904027](../../Library/Application%20Support/typora-user-images/image-20220920125904027.png)
+![image-20220920125904027](public/images/markdown/nginxintro.png)
 
 
 

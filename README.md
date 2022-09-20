@@ -14,13 +14,15 @@
 
 
 
-
+<br/>
 
 ## 在线演示
 
 - [在线演示地址](http://projectdemo.top:45678)
 
 
+
+<br/>
 
 ## 特性
 
@@ -32,6 +34,12 @@
 
 
 
+<br/>
+
+
+
+
+
 ## 安装
 
 ### ①.如果你想要本地运行
@@ -39,6 +47,10 @@
 1. `git clone git@github.com:JuneQQQ/vue-shopping.git`
 2. `npm install`
 3. `npm run dev`
+
+
+
+<br/>
 
 
 
@@ -100,6 +112,8 @@ html文件夹下的目录结构（50x.html可没有）
 
 
 
+<br/>
+
 ### ③.如果你想要Docker运行
 
 ```sh
@@ -116,12 +130,20 @@ docker run --name vue-shopping -d -p 5556:80 myteam-p-docker.pkg.coding.net/mall
 
 
 
+<br/><br/>
+
+
+
 ## 目前已知的问题
 
 1. 商品详情页第一次进入选中有问题，这个是因为MOCK数据不具有关联性，商品详情页立即购买也有这个问题，待前后端联调修复；
 2. 关于登录过期时间，由后端控制，返回前端状态码以获取状态；
 
 
+
+
+
+<br/>
 
 
 

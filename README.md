@@ -1,6 +1,7 @@
-<img src="./public/images/logo/logo500x200.png"/>
-
-<h4 align="center">基于VUE3+Vite+Typescript+Pinia+ElementUI的电商前台项目</h1>
+<p align="center">
+    <img src="./public/images/logo/logo500x200.png"/>
+</p>
+<h4 align="center">基于VUE3+Vite+Typescript+Pinia+ElementUI的电商前台项目</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Pinia-2.0.21-green.svg"/>
   <img src="https://img.shields.io/badge/ElementPlus-2.2.16-green.svg"/>

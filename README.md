@@ -3,11 +3,15 @@
 </p>
 <h4 align="center">基于VUE3+Vite+Typescript+Pinia+ElementUI的电商前台项目</h4>
 <p align="center">
+  <img src="https://img.shields.io/badge/Vue-3.2.28-green.svg"/>
+  <img src="https://img.shields.io/badge/Typescript-4.7.4-green.svg"/>
   <img src="https://img.shields.io/badge/Pinia-2.0.21-green.svg"/>
+  <img src="https://img.shields.io/badge/Vite-3.0.9-green.svg"/>
   <img src="https://img.shields.io/badge/ElementPlus-2.2.16-green.svg"/>
   <img src="https://img.shields.io/badge/VueRouter-4.1.5-green.svg"/>
   <img src="https://img.shields.io/badge/NodeJs-16.17-green.svg" alt="JuneQQQ"/>
 </p>
+
 
 
 
